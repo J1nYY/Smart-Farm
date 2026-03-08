@@ -43,6 +43,7 @@ ROS 2 기반 다중 로봇 협업 토마토 수확 시스템 개발
    ![Burger 동작 시나리오](assets/scenario2.png)
 5) OMX Manipulator (로봇팔) 동작 시나리오
    ![OMX Manipulator 동작 시나리오](assets/scenario3.png)
+   
 ---
 
 
