@@ -18,7 +18,7 @@ ROS 2 기반 다중 로봇 협업 토마토 수확 시스템 개발
 - 시나리오 흐름:  
   1) 와플 선두 수확 → 2) 버거 마커 추적 & 저장 → 3) 바구니 가득 참  
   4) 와플 정지/대기 → 5) 버거 초기 위치 복귀 & 비움 → 6) 버거 재합류
-  ![system](assets/system.png)
+  ![system1](assets/system.png)
 - 하드웨어 구성
   ![hardware](assets/hardware.png)
 - 소프트웨어 구성
@@ -38,9 +38,9 @@ ROS 2 기반 다중 로봇 협업 토마토 수확 시스템 개발
 
 ##  동작 시나리오
 1) Waffle (수확 로봇) 동작 시나리오
-   ![Waffle 동작 시나리오](assets/scenario1.png)
+   ![Waffle 동작 시나리오1](assets/scenario1.png)
 3) Burger (저장 및 운송 로봇) 동작 시나리오
-   ![Burger 동작 시나리오](assets/scenario2.png)
+   ![Burger 동작 시나리오1](assets/scenario2.png)
 5) OMX Manipulator (로봇팔) 동작 시나리오
    ![OMX Manipulator 동작 시나리오](assets/scenario3.png)
    
